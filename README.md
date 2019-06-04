@@ -1,2 +1,2 @@
-# mary-best-repo
+# best-repo-ever
 best-repo
